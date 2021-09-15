@@ -1,0 +1,6 @@
+.project
+*.exe
+*.out
+*.obj
+.cproject
+.settings
