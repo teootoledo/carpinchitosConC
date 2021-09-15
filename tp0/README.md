@@ -26,3 +26,7 @@ Podés encontrar la consigna en el siguiente [link].
 - Leer de consola CHECK
 
 ### Etapa 3: Programar el Cliente-Servidor
+- CHECK
+
+### Etapa 4: Debugger
+- CHECK
